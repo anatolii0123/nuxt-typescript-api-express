@@ -1,4 +1,4 @@
-# crud-app
+# Nuxt
 
 > CRUD Application with typescript
 

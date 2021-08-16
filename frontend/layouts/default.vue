@@ -64,7 +64,7 @@
         <v-icon>mdi-bell</v-icon>
       </v-btn>
 
-      <v-menu bottom origin="center center" transition="scale-x-transition">
+      <v-menu bottom origin="  center" transition="scale-x-transition">
         <template v-slot:activator="{ on }">
           <v-btn icon large v-on="on">
             <v-avatar size="32px" item>
@@ -86,11 +86,6 @@
         </v-list>
       </v-menu>
 
-      <!-- <v-btn icon large>
-        <v-avatar size="32px" item>
-          <v-img src="/avatar.png" alt="avatar" />
-        </v-avatar>
-      </v-btn> -->
     </v-app-bar>
     <v-content>
       <v-container class="container container--fluid">

@@ -83,6 +83,7 @@ export default class LoginPage extends Vue {
           outlined
           v-model="login.password"
           :rules="rules.password"
+          type="password"
           label="Password"
           placeholder="Password"
           required
