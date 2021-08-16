@@ -1,2 +1,3 @@
-# nuxt-typescript-api-express
-Nuxt, Typescript, API integration, Express Server
+frontend - nuxt typescript
+
+backend - express server
